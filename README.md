@@ -1,5 +1,5 @@
-# ballaro
-Propp - Piano Etude No.1 - Ballarò 
+# Propp - Piano Etude No.1 - Ballarò 
+
 I made a stupid transcription of a piece of music that's stuck since my childhood, refer to this:
 https://youtu.be/8LVgqRYNWzk?feature=shared&t=27
 
